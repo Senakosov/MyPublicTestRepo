@@ -1,0 +1,13 @@
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.exe
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.deps.json
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.runtimeconfig.json
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.runtimeconfig.dev.json
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.dll
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\bin\Debug\netcoreapp3.1\MyLessonApp.pdb
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.csprojAssemblyReference.cache
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.csproj.CoreCompileInputs.cache
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.AssemblyInfoInputs.cache
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.AssemblyInfo.cs
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.dll
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.pdb
+C:\Users\senak\source\repos\MyPublicTestRepo\MyLessonApp\MyLessonApp\obj\Debug\netcoreapp3.1\MyLessonApp.genruntimeconfig.cache
